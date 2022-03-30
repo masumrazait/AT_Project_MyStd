@@ -1,0 +1,328 @@
+2022-03-09 22:36:28,283 - UnifyTree -INFO - URL is opened
+2022-03-09 22:36:28,726 - UnifyTree -INFO - Entered username
+2022-03-09 22:36:29,071 - UnifyTree -INFO - Entered password
+2022-03-09 23:15:59,790 - UnifyTree -INFO - URL is opened
+2022-03-09 23:16:03,463 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-09 23:42:41,811 - UnifyTree -INFO - URL is opened
+2022-03-09 23:42:42,636 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-09 23:42:42,861 - UnifyTree -INFO - Entered Surname
+2022-03-09 23:42:42,960 - UnifyTree -INFO - Entered Phone Number
+2022-03-09 23:44:08,477 - UnifyTree -INFO - URL is opened
+2022-03-09 23:44:09,011 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-09 23:44:09,490 - UnifyTree -INFO - Entered Surname
+2022-03-09 23:44:09,995 - UnifyTree -INFO - Entered Phone Number
+2022-03-09 23:45:53,948 - UnifyTree -INFO - URL is opened
+2022-03-09 23:45:54,919 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-09 23:45:55,179 - UnifyTree -INFO - Entered Surname
+2022-03-09 23:45:55,330 - UnifyTree -INFO - Entered Phone Number
+2022-03-09 23:56:11,418 - UnifyTree -INFO - URL is opened
+2022-03-09 23:56:12,263 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-09 23:56:12,390 - UnifyTree -INFO - Entered First Name
+2022-03-09 23:56:12,483 - UnifyTree -INFO - Entered Surname
+2022-03-09 23:56:12,578 - UnifyTree -INFO - Entered Phone Number
+2022-03-09 23:58:08,746 - UnifyTree -INFO - URL is opened
+2022-03-09 23:58:09,489 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-09 23:58:09,603 - UnifyTree -INFO - Entered First Name
+2022-03-09 23:58:09,701 - UnifyTree -INFO - Entered Surname
+2022-03-09 23:58:09,794 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 00:01:23,002 - UnifyTree -INFO - URL is opened
+2022-03-10 00:01:23,727 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 00:01:23,818 - UnifyTree -INFO - Entered First Name
+2022-03-10 00:01:23,898 - UnifyTree -INFO - Entered Surname
+2022-03-10 00:01:23,982 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 00:03:04,187 - UnifyTree -INFO - URL is opened
+2022-03-10 00:03:04,562 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 00:03:04,915 - UnifyTree -INFO - Entered First Name
+2022-03-10 00:03:05,303 - UnifyTree -INFO - Entered Surname
+2022-03-10 00:03:05,385 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 00:03:10,508 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 00:04:34,902 - UnifyTree -INFO - URL is opened
+2022-03-10 00:04:35,334 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 00:04:35,995 - UnifyTree -INFO - Entered First Name
+2022-03-10 00:04:36,114 - UnifyTree -INFO - Entered Surname
+2022-03-10 00:04:36,243 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 00:04:41,405 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 00:04:41,685 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 00:04:41,803 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 00:06:26,398 - UnifyTree -INFO - URL is opened
+2022-03-10 00:06:27,716 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 00:06:27,809 - UnifyTree -INFO - Entered First Name
+2022-03-10 00:06:27,885 - UnifyTree -INFO - Entered Surname
+2022-03-10 00:06:27,993 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 00:06:33,128 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 00:06:38,426 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 00:06:38,576 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 00:08:32,135 - UnifyTree -INFO - URL is opened
+2022-03-10 00:08:32,501 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 00:08:32,805 - UnifyTree -INFO - Entered First Name
+2022-03-10 00:08:32,954 - UnifyTree -INFO - Entered Surname
+2022-03-10 00:08:33,118 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 00:08:38,279 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 00:08:43,479 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 00:08:43,585 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 11:52:58,984 - UnifyTree -INFO - URL is opened
+2022-03-10 11:53:18,679 - UnifyTree -INFO - URL is opened
+2022-03-10 11:53:19,116 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 11:53:19,245 - UnifyTree -INFO - Entered First Name
+2022-03-10 11:53:19,341 - UnifyTree -INFO - Entered Surname
+2022-03-10 11:53:19,453 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 11:53:19,593 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 11:53:19,771 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 11:53:19,908 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 11:55:18,848 - UnifyTree -INFO - URL is opened
+2022-03-10 11:55:37,538 - UnifyTree -INFO - URL is opened
+2022-03-10 11:55:37,811 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 11:55:38,006 - UnifyTree -INFO - Entered First Name
+2022-03-10 11:55:38,081 - UnifyTree -INFO - Entered Surname
+2022-03-10 11:55:38,191 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 11:55:38,310 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 11:55:38,518 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 11:55:38,637 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 12:02:23,903 - UnifyTree -INFO - URL is opened
+2022-03-10 12:02:24,259 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 12:02:24,415 - UnifyTree -INFO - Entered First Name
+2022-03-10 12:02:24,659 - UnifyTree -INFO - Entered Surname
+2022-03-10 12:02:24,873 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 12:02:25,038 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 12:02:25,307 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 12:02:25,495 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 12:03:47,251 - UnifyTree -INFO - URL is opened
+2022-03-10 12:03:47,593 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 12:03:47,954 - UnifyTree -INFO - Entered First Name
+2022-03-10 12:03:48,644 - UnifyTree -INFO - Entered Surname
+2022-03-10 12:03:48,825 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 12:03:48,963 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 12:03:49,140 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 12:03:49,255 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 12:10:02,742 - UnifyTree -INFO - URL is opened
+2022-03-10 12:10:03,193 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 12:10:03,322 - UnifyTree -INFO - Entered First Name
+2022-03-10 12:10:03,426 - UnifyTree -INFO - Entered Surname
+2022-03-10 12:10:03,554 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 12:10:03,723 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 12:10:03,949 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 12:10:04,134 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 12:13:56,857 - UnifyTree -INFO - URL is opened
+2022-03-10 12:13:57,262 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 12:13:57,467 - UnifyTree -INFO - Entered First Name
+2022-03-10 12:13:57,569 - UnifyTree -INFO - Entered Surname
+2022-03-10 12:13:57,683 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 12:13:57,865 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 12:13:58,098 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 12:13:58,211 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 12:19:28,533 - UnifyTree -INFO - URL is opened
+2022-03-10 12:19:29,228 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 12:19:29,368 - UnifyTree -INFO - Entered First Name
+2022-03-10 12:19:29,483 - UnifyTree -INFO - Entered Surname
+2022-03-10 12:19:29,593 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 12:19:29,700 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 12:19:29,847 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 12:19:29,958 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 12:19:33,160 - UnifyTree -INFO - USer Selected Provision
+2022-03-10 12:19:33,445 - UnifyTree -INFO - USer Selected Licence Period 
+2022-03-10 12:19:33,692 - UnifyTree -INFO - USer Selected Occupation Engineer
+2022-03-10 13:00:42,684 - UnifyTree -INFO - URL is opened
+2022-03-10 13:00:43,483 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 13:00:43,600 - UnifyTree -INFO - Entered First Name
+2022-03-10 13:00:43,699 - UnifyTree -INFO - Entered Surname
+2022-03-10 13:00:43,791 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 13:00:43,916 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 13:00:44,063 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 13:00:44,154 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 13:00:47,275 - UnifyTree -INFO - USer Selected Provision
+2022-03-10 13:00:47,442 - UnifyTree -INFO - USer Selected Licence Period 
+2022-03-10 13:00:47,646 - UnifyTree -INFO - USer Selected Occupation Engineer
+2022-03-10 13:00:47,725 - UnifyTree -INFO - Entered First Name
+2022-03-10 13:00:47,774 - UnifyTree -INFO - Entered Address Street
+2022-03-10 13:00:47,810 - UnifyTree -INFO - Entered City Name
+2022-03-10 13:00:47,843 - UnifyTree -INFO - Entered Country Name
+2022-03-10 13:00:47,870 - UnifyTree -INFO - Entered Post code
+2022-03-10 13:00:47,925 - UnifyTree -INFO - Entered Email ID
+2022-03-10 13:00:47,958 - UnifyTree -INFO - Entered Password 
+2022-03-10 13:00:47,990 - UnifyTree -INFO - Entered Confirm Password 
+2022-03-10 14:14:20,673 - UnifyTree -INFO - URL is opened
+2022-03-10 14:14:21,216 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 14:14:21,954 - UnifyTree -INFO - Entered First Name
+2022-03-10 14:14:22,038 - UnifyTree -INFO - Entered Surname
+2022-03-10 14:14:22,133 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 14:14:22,254 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 14:14:22,401 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 14:14:22,493 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 14:14:25,590 - UnifyTree -INFO - USer Selected Provision
+2022-03-10 14:14:25,760 - UnifyTree -INFO - USer Selected Licence Period 
+2022-03-10 14:14:25,983 - UnifyTree -INFO - USer Selected Occupation Engineer
+2022-03-10 14:14:26,071 - UnifyTree -INFO - Entered First Name
+2022-03-10 14:14:26,129 - UnifyTree -INFO - Entered Address Street
+2022-03-10 14:14:26,166 - UnifyTree -INFO - Entered City Name
+2022-03-10 14:14:26,200 - UnifyTree -INFO - Entered Country Name
+2022-03-10 14:14:26,233 - UnifyTree -INFO - Entered Post code
+2022-03-10 14:14:26,279 - UnifyTree -INFO - Entered Email ID
+2022-03-10 14:14:26,315 - UnifyTree -INFO - Entered Password 
+2022-03-10 14:14:26,354 - UnifyTree -INFO - Entered Confirm Password 
+2022-03-10 14:14:29,362 - UnifyTree -INFO - Login test passed
+2022-03-10 14:25:50,428 - UnifyTree -INFO - URL is opened
+2022-03-10 14:25:50,795 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 14:25:50,894 - UnifyTree -INFO - Entered First Name
+2022-03-10 14:25:51,005 - UnifyTree -INFO - Entered Surname
+2022-03-10 14:25:51,232 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 14:25:51,379 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 14:25:51,560 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 14:25:51,669 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 14:25:54,803 - UnifyTree -INFO - USer Selected Provision
+2022-03-10 14:25:54,968 - UnifyTree -INFO - USer Selected Licence Period 
+2022-03-10 14:25:55,173 - UnifyTree -INFO - USer Selected Occupation Engineer
+2022-03-10 14:25:55,256 - UnifyTree -INFO - Entered Address Street
+2022-03-10 14:25:55,341 - UnifyTree -INFO - Entered City Name
+2022-03-10 14:25:55,421 - UnifyTree -INFO - Entered Country Name
+2022-03-10 14:25:55,505 - UnifyTree -INFO - Entered Post code
+2022-03-10 14:25:55,595 - UnifyTree -INFO - Entered Email ID
+2022-03-10 14:25:55,680 - UnifyTree -INFO - Entered Password 
+2022-03-10 14:25:55,771 - UnifyTree -INFO - Entered Confirm Password 
+2022-03-10 14:25:58,777 - UnifyTree -INFO - Login test passed
+2022-03-10 14:28:44,216 - UnifyTree -INFO - URL is opened
+2022-03-10 14:28:44,772 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 14:28:44,894 - UnifyTree -INFO - Entered First Name
+2022-03-10 14:28:44,986 - UnifyTree -INFO - Entered Surname
+2022-03-10 14:28:45,086 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 14:28:45,181 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 14:28:45,343 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 14:28:45,432 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 14:28:48,549 - UnifyTree -INFO - USer Selected Provision
+2022-03-10 14:28:48,737 - UnifyTree -INFO - USer Selected Licence Period 
+2022-03-10 14:28:48,951 - UnifyTree -INFO - USer Selected Occupation Engineer
+2022-03-10 14:28:49,038 - UnifyTree -INFO - Entered Address Street
+2022-03-10 14:28:49,126 - UnifyTree -INFO - Entered City Name
+2022-03-10 14:28:49,203 - UnifyTree -INFO - Entered Country Name
+2022-03-10 14:28:49,291 - UnifyTree -INFO - Entered Post code
+2022-03-10 14:28:49,383 - UnifyTree -INFO - Entered Email ID
+2022-03-10 14:28:49,476 - UnifyTree -INFO - Entered Password 
+2022-03-10 14:28:49,571 - UnifyTree -INFO - Entered Confirm Password 
+2022-03-10 14:29:44,407 - UnifyTree -INFO - URL is opened
+2022-03-10 14:29:44,913 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 14:29:45,094 - UnifyTree -INFO - Entered First Name
+2022-03-10 14:29:45,189 - UnifyTree -INFO - Entered Surname
+2022-03-10 14:29:45,291 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 14:29:45,399 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 14:29:45,542 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 14:29:45,639 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 14:29:48,763 - UnifyTree -INFO - USer Selected Provision
+2022-03-10 14:29:48,925 - UnifyTree -INFO - USer Selected Licence Period 
+2022-03-10 14:29:49,131 - UnifyTree -INFO - USer Selected Occupation Engineer
+2022-03-10 14:29:49,215 - UnifyTree -INFO - Entered Address Street
+2022-03-10 14:29:49,299 - UnifyTree -INFO - Entered City Name
+2022-03-10 14:29:49,374 - UnifyTree -INFO - Entered Country Name
+2022-03-10 14:29:49,454 - UnifyTree -INFO - Entered Post code
+2022-03-10 14:29:49,544 - UnifyTree -INFO - Entered Email ID
+2022-03-10 14:29:49,639 - UnifyTree -INFO - Entered Password 
+2022-03-10 14:29:49,723 - UnifyTree -INFO - Entered Confirm Password 
+2022-03-10 14:29:52,793 - UnifyTree -INFO - User Reset the Data
+2022-03-10 14:29:52,801 - UnifyTree -INFO - Login test passed
+2022-03-10 14:36:12,854 - UnifyTree -INFO - URL is opened
+2022-03-10 14:36:13,496 - UnifyTree -INFO - USer Selected Tittle from Dropdown
+2022-03-10 14:36:13,612 - UnifyTree -INFO - Entered First Name
+2022-03-10 14:36:13,708 - UnifyTree -INFO - Entered Surname
+2022-03-10 14:36:13,821 - UnifyTree -INFO - Entered Phone Number
+2022-03-10 14:36:13,932 - UnifyTree -INFO - USer Selected Years from Dropdown
+2022-03-10 14:36:14,081 - UnifyTree -INFO - USer Selected Months from Dropdown
+2022-03-10 14:36:14,166 - UnifyTree -INFO - USer Selected DAte from Dropdown
+2022-03-10 14:36:17,303 - UnifyTree -INFO - USer Selected Provision
+2022-03-10 14:36:17,479 - UnifyTree -INFO - USer Selected Licence Period 
+2022-03-10 14:36:17,675 - UnifyTree -INFO - USer Selected Occupation Engineer
+2022-03-10 14:36:17,756 - UnifyTree -INFO - Entered Address Street
+2022-03-10 14:36:17,837 - UnifyTree -INFO - Entered City Name
+2022-03-10 14:36:17,914 - UnifyTree -INFO - Entered Country Name
+2022-03-10 14:36:17,988 - UnifyTree -INFO - Entered Post code
+2022-03-10 14:36:18,076 - UnifyTree -INFO - Entered Email ID
+2022-03-10 14:36:18,157 - UnifyTree -INFO - Entered Password 
+2022-03-10 14:36:18,242 - UnifyTree -INFO - Entered Confirm Password 
+2022-03-10 14:36:22,702 - UnifyTree -INFO - User Create Account
+2022-03-10 14:36:22,709 - UnifyTree -INFO - Login test passed
+2022-03-10 14:44:53,092 - UnifyTree -INFO - URL is opened
+2022-03-10 14:45:10,598 - UnifyTree -INFO - URL is opened
+2022-03-10 14:46:14,575 - UnifyTree -INFO - URL is opened
+2022-03-10 14:46:14,713 - UnifyTree -INFO - Entered username
+2022-03-10 14:46:14,914 - UnifyTree -INFO - Entered password
+2022-03-10 14:46:32,935 - UnifyTree -INFO - URL is opened
+2022-03-10 17:21:48,739 - UnifyTree -INFO - URL is opened
+2022-03-10 17:21:48,974 - UnifyTree -INFO - Entered username
+2022-03-10 17:21:49,890 - UnifyTree -INFO - Entered password
+2022-03-10 17:22:20,395 - UnifyTree -INFO - URL is opened
+2022-03-10 17:28:22,275 - UnifyTree -INFO - URL is opened
+2022-03-10 17:28:22,518 - UnifyTree -INFO - Entered username
+2022-03-10 17:28:22,651 - UnifyTree -INFO - Entered password
+2022-03-10 17:28:39,996 - UnifyTree -INFO - URL is opened
+2022-03-10 17:48:50,604 - UnifyTree -INFO - URL is opened
+2022-03-10 17:48:50,751 - UnifyTree -INFO - Entered username
+2022-03-10 17:48:50,860 - UnifyTree -INFO - Entered password
+2022-03-10 17:48:52,448 - UnifyTree -INFO - Login test passed
+2022-03-10 17:49:00,623 - UnifyTree -INFO - URL is opened
+2022-03-13 19:22:58,583 - UnifyTree -INFO - URL is opened
+2022-03-13 19:22:59,164 - UnifyTree -INFO - Entered username
+2022-03-13 19:22:59,282 - UnifyTree -INFO - Entered password
+2022-03-13 19:23:00,789 - UnifyTree -INFO - Login test passed
+2022-03-13 19:23:08,015 - UnifyTree -INFO - URL is opened
+2022-03-15 14:12:31,549 - UnifyTree -INFO - URL is opened
+2022-03-15 14:12:31,962 - UnifyTree -INFO - Entered username
+2022-03-15 14:12:32,190 - UnifyTree -INFO - Entered password
+2022-03-15 14:12:33,508 - UnifyTree -INFO - Login test passed
+2022-03-15 14:12:40,360 - UnifyTree -INFO - URL is opened
+2022-03-16 16:20:37,220 - UnifyTree -INFO - URL is opened
+2022-03-16 16:20:37,564 - UnifyTree -INFO - Entered username
+2022-03-16 16:20:37,666 - UnifyTree -INFO - Entered password
+2022-03-16 16:20:39,766 - UnifyTree -INFO - Login test passed
+2022-03-16 16:20:47,612 - UnifyTree -INFO - URL is opened
+2022-03-16 16:24:35,537 - UnifyTree -INFO - URL is opened
+2022-03-16 16:24:35,644 - UnifyTree -INFO - Entered username
+2022-03-16 16:24:35,952 - UnifyTree -INFO - Entered password
+2022-03-16 16:24:37,333 - UnifyTree -INFO - Login test passed
+2022-03-16 16:24:44,537 - UnifyTree -INFO - URL is opened
+2022-03-16 16:27:32,710 - UnifyTree -INFO - URL is opened
+2022-03-16 16:27:32,800 - UnifyTree -INFO - Entered username
+2022-03-16 16:27:32,888 - UnifyTree -INFO - Entered password
+2022-03-16 16:27:34,217 - UnifyTree -INFO - Login test passed
+2022-03-16 16:27:40,738 - UnifyTree -INFO - URL is opened
+2022-03-16 16:31:14,117 - UnifyTree -INFO - URL is opened
+2022-03-16 16:31:14,653 - UnifyTree -INFO - Entered username
+2022-03-16 16:31:14,761 - UnifyTree -INFO - Entered password
+2022-03-16 16:31:16,161 - UnifyTree -INFO - Login test passed
+2022-03-16 16:31:23,654 - UnifyTree -INFO - URL is opened
+2022-03-16 16:33:16,646 - UnifyTree -INFO - URL is opened
+2022-03-16 16:33:16,770 - UnifyTree -INFO - Entered username
+2022-03-16 16:33:16,851 - UnifyTree -INFO - Entered password
+2022-03-16 16:33:18,500 - UnifyTree -INFO - Login test passed
+2022-03-16 16:33:26,159 - UnifyTree -INFO - URL is opened
+2022-03-30 15:37:57,832 - UnifyTree -INFO - URL is opened
+2022-03-30 15:37:59,590 - UnifyTree -INFO - Entered username
+2022-03-30 15:38:00,162 - UnifyTree -INFO - Entered password
+2022-03-30 15:38:04,324 - UnifyTree -INFO - Login test passed
+2022-03-30 15:38:15,367 - UnifyTree -INFO - URL is opened
+2022-03-30 19:58:42,657 - UnifyTree -INFO - URL is opened
+2022-03-30 19:58:43,358 - UnifyTree -INFO - Entered username
+2022-03-30 19:58:43,531 - UnifyTree -INFO - Entered password
+2022-03-30 19:58:45,437 - UnifyTree -INFO - Login test passed
+2022-03-30 19:58:56,298 - UnifyTree -INFO - URL is opened
+2022-03-30 20:37:13,745 - UnifyTree -INFO - URL is opened
+2022-03-30 20:37:14,313 - UnifyTree -INFO - Entered username
+2022-03-30 20:37:15,517 - UnifyTree -INFO - Entered password
+2022-03-30 20:37:17,817 - UnifyTree -INFO - Login test passed
+2022-03-30 20:37:29,712 - UnifyTree -INFO - URL is opened
+2022-03-30 20:39:41,355 - UnifyTree -INFO - URL is opened
+2022-03-30 20:39:41,617 - UnifyTree -INFO - Entered username
+2022-03-30 20:39:41,818 - UnifyTree -INFO - Entered password
+2022-03-30 20:39:43,228 - UnifyTree -INFO - Login test passed
+2022-03-30 20:39:52,217 - UnifyTree -INFO - URL is opened
+2022-03-30 20:45:09,914 - UnifyTree -INFO - URL is opened
+2022-03-30 20:45:10,535 - UnifyTree -INFO - Entered username
+2022-03-30 20:45:10,714 - UnifyTree -INFO - Entered password
+2022-03-30 20:45:12,015 - UnifyTree -INFO - Login test passed
+2022-03-30 20:45:27,352 - UnifyTree -INFO - URL is opened
+2022-03-30 20:47:23,923 - UnifyTree -INFO - URL is opened
+2022-03-30 20:47:24,271 - UnifyTree -INFO - Entered username
+2022-03-30 20:47:24,422 - UnifyTree -INFO - Entered password
+2022-03-30 20:47:25,680 - UnifyTree -INFO - Login test passed
+2022-03-30 20:47:34,603 - UnifyTree -INFO - URL is opened
+2022-03-30 20:50:06,490 - UnifyTree -INFO - URL is opened
+2022-03-30 20:50:06,781 - UnifyTree -INFO - Entered username
+2022-03-30 20:50:06,925 - UnifyTree -INFO - Entered password
+2022-03-30 20:50:08,714 - UnifyTree -INFO - Login test passed
+2022-03-30 20:50:20,457 - UnifyTree -INFO - URL is opened
