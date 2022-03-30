@@ -331,3 +331,7 @@
 2022-03-30 21:15:08,781 - UnifyTree -INFO - Entered password
 2022-03-30 21:15:10,201 - UnifyTree -INFO - Login test passed
 2022-03-30 21:15:19,323 - UnifyTree -INFO - URL is opened
+2022-03-30 21:20:48,854 - UnifyTree -INFO - URL is opened
+2022-03-30 21:20:49,206 - UnifyTree -INFO - Entered username
+2022-03-30 21:20:49,397 - UnifyTree -INFO - Entered password
+2022-03-30 21:23:01,978 - UnifyTree -INFO - URL is opened

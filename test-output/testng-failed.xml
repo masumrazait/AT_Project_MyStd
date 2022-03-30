@@ -7,6 +7,13 @@
   <test thread-count="5" name="MyStudent Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
+      <class name="com.myStudent.testCases.TC_LoginTest">
+        <methods>
+          <include name="loginTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.myStudent.testCases.TC_LoginTest -->
       <class name="com.myStudent.testCases.TC_RegisterTest">
         <methods>
           <include name="setup"/>
