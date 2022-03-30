@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="MyStudent" duration-ms="47005" started-at="2022-03-30T20:49:44 IST" finished-at="2022-03-30T20:50:31 IST">
+  <suite name="MyStudent" duration-ms="27644" started-at="2022-03-30T21:14:58 IST" finished-at="2022-03-30T21:15:26 IST">
     <groups>
     </groups>
-    <test name="MyStudent Test" duration-ms="47005" started-at="2022-03-30T20:49:44 IST" finished-at="2022-03-30T20:50:31 IST">
+    <test name="MyStudent Test" duration-ms="27644" started-at="2022-03-30T21:14:58 IST" finished-at="2022-03-30T21:15:26 IST">
       <class name="com.myStudent.testCases.TC_LoginTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.myStudent.testCases.TC_LoginTest@3580bf]" name="setup" is-config="true" duration-ms="21816" started-at="2022-03-30T20:49:44 IST" finished-at="2022-03-30T20:50:06 IST">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.myStudent.testCases.TC_LoginTest@3580bf]" name="setup" is-config="true" duration-ms="8940" started-at="2022-03-30T21:14:58 IST" finished-at="2022-03-30T21:15:07 IST">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.myStudent.testCases.TC_LoginTest@3580bf]" name="loginTest" duration-ms="2297" started-at="2022-03-30T20:50:06 IST" finished-at="2022-03-30T20:50:08 IST">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.myStudent.testCases.TC_LoginTest@3580bf]" name="loginTest" duration-ms="2297" started-at="2022-03-30T21:15:07 IST" finished-at="2022-03-30T21:15:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myStudent.testCases.TC_LoginTest@3580bf]" name="tearDown" is-config="true" duration-ms="776" started-at="2022-03-30T20:50:08 IST" finished-at="2022-03-30T20:50:09 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myStudent.testCases.TC_LoginTest@3580bf]" name="tearDown" is-config="true" duration-ms="879" started-at="2022-03-30T21:15:10 IST" finished-at="2022-03-30T21:15:11 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.myStudent.testCases.TC_LoginTest -->
       <class name="com.myStudent.testCases.TC_RegisterTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.myStudent.testCases.TC_RegisterTest@92efc3]" name="setup" is-config="true" duration-ms="10772" started-at="2022-03-30T20:50:09 IST" finished-at="2022-03-30T20:50:20 IST">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.myStudent.testCases.TC_RegisterTest@92efc3]" name="setup" is-config="true" duration-ms="8103" started-at="2022-03-30T21:15:11 IST" finished-at="2022-03-30T21:15:19 IST">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="RegisterTest()[pri:0, instance:com.myStudent.testCases.TC_RegisterTest@92efc3]" name="RegisterTest" duration-ms="9808" started-at="2022-03-30T20:50:20 IST" finished-at="2022-03-30T20:50:30 IST">
+        <test-method status="FAIL" signature="RegisterTest()[pri:0, instance:com.myStudent.testCases.TC_RegisterTest@92efc3]" name="RegisterTest" duration-ms="5998" started-at="2022-03-30T21:15:19 IST" finished-at="2022-03-30T21:15:25 IST">
           <exception class="org.openqa.selenium.ElementNotInteractableException">
             <message>
               <![CDATA[element not interactable: Element is not currently visible and may not be manipulated
@@ -47,8 +47,8 @@
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'THINK_DIFFERENT', ip: '192.168.1.24', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_311'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.82, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59125}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 67476f890eeed1ebf9b30b8a0881d69b]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.82, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59792}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 00e02c2a1fb41f92830583299041b9a4]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable: Element is not currently visible and may not be manipulated
@@ -56,8 +56,8 @@ Session ID: 67476f890eeed1ebf9b30b8a0881d69b]]>
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'THINK_DIFFERENT', ip: '192.168.1.24', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_311'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.82, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59125}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 67476f890eeed1ebf9b30b8a0881d69b
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.82, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59792}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 00e02c2a1fb41f92830583299041b9a4
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -108,7 +108,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RegisterTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myStudent.testCases.TC_RegisterTest@92efc3]" name="tearDown" is-config="true" duration-ms="795" started-at="2022-03-30T20:50:30 IST" finished-at="2022-03-30T20:50:31 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myStudent.testCases.TC_RegisterTest@92efc3]" name="tearDown" is-config="true" duration-ms="757" started-at="2022-03-30T21:15:25 IST" finished-at="2022-03-30T21:15:26 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
