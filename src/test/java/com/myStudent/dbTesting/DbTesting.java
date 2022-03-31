@@ -9,7 +9,7 @@ public class DbTesting {
 		// TODO Auto-generated method stub
 
 		DbManager.setMsqlDbConnection();
-		List<String>query=DbManager.getMySqlQuery("SELECT * FROM world.city;");
+		List<String>query=DbManager.getMySqlQuery("SELECT * FROM world.country;");
 		for(int i=0;i<query.size();i++) {
 			System.out.println(query.get(i));
 		}
