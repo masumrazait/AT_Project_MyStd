@@ -99,7 +99,7 @@ public class Reporting extends TestListenerAdapter implements ITestListener,ISui
 	
 	//Extra added for mail config
 	public void onFinish(ISuite arg0) {
-		
+/*		
 		MonitoringMail mail = new MonitoringMail();
 		 
 		try {
@@ -120,7 +120,7 @@ public class Reporting extends TestListenerAdapter implements ITestListener,ISui
 			e.printStackTrace();
 		}
 
-		
+		*/
 	}
 	// End Extra added for mail config
 	

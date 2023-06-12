@@ -4,8 +4,8 @@ public class TestConfig {
 
 	public static final String driver1 = null;
 	public static String server = "smtp.gmail.com";
-	public static String from = "netcse02@gmail.com";
-	public static String password = "masumit";
+	public static String from = "netcse@gmail.com";
+	public static String password = "M22222";
 	public static String[] to = { "masumit1526@gmail.com", "anisha15sk@gmail.com", "gowthami0622@gmail.com","Masumaziz21@gmail.com", "masum.raza@netxplore.in" };
 	public static String subject = "CemkStudent Automation Testing Report";
 

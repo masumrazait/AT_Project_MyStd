@@ -33,6 +33,8 @@ public class MonitoringMail
 		props.put("mail.smtp.host", mailServer); 
 		props.put("mail.debug", "true");
 		
+		props.setProperty("mail.smtp.starttls.required", "true");
+		props.setProperty("mail.smtp.ssl.protocols", "TLSv1.2");
 	     props.setProperty("mail.smtp.socketFactory.class", "javax.net.ssl.SSLSocketFactory");   
 	     props.setProperty("mail.smtp.socketFactory.fallback", "false");   
 	     props.setProperty("mail.smtp.port", "587");   
