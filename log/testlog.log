@@ -355,3 +355,8 @@
 2023-06-12 19:15:44,870 - UnifyTree -INFO - Entered password
 2023-06-12 19:15:45,444 - UnifyTree -INFO - Login test passed
 2023-06-12 19:15:49,050 - UnifyTree -INFO - URL is opened
+2023-06-12 19:22:45,391 - UnifyTree -INFO - URL is opened
+2023-06-12 19:22:45,482 - UnifyTree -INFO - Entered username
+2023-06-12 19:22:45,557 - UnifyTree -INFO - Entered password
+2023-06-12 19:22:46,136 - UnifyTree -INFO - Login test passed
+2023-06-12 19:22:50,706 - UnifyTree -INFO - URL is opened
