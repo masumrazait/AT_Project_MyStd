@@ -46,6 +46,9 @@ public class DbManager {
 		ResultSet rs=St.executeQuery(query);
 		List<String>values1=new ArrayList<String>();
 		while(rs.next()) {
+			values1.add(rs.getString(1));
+			values1.add(rs.getString(2));
+			values1.add(rs.getString(3));
 			values1.add(rs.getString(4));
 		}
 	

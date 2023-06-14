@@ -38,7 +38,7 @@ public class Reporting extends TestListenerAdapter implements ITestListener,ISui
 	public void onStart(ITestContext testContext)
 	{
 		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());//time stamp
-		String repName="MyStudent-Test-Report-"+timeStamp+".html";
+		String repName="MyBank-Test-Report-"+timeStamp+".html";
 		
 		htmlReporter=new ExtentSparkReporter(System.getProperty("user.dir")+ "\\Report\\"+repName);//specify location of the report
 		try {
@@ -51,9 +51,9 @@ public class Reporting extends TestListenerAdapter implements ITestListener,ISui
 		extent=new ExtentReports();
 		
 		extent.attachReporter(htmlReporter);
-		extent.setSystemInfo("Project","MyStudent");
+		extent.setSystemInfo("Project","MyBankQA");
 		extent.setSystemInfo("Automation Tester","Masum Raza");
-		extent.setSystemInfo("Organization","Code Learner");
+		extent.setSystemInfo("Organization","Mannat Info Technologies Pvt Ltd");
 		extent.setSystemInfo("Host name","Local-Server");
 		
 		
