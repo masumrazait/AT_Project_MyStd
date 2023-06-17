@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-15T01:51:53 IST" name="MyStudent" finished-at="2023-06-15T01:52:20 IST" duration-ms="26891">
+  <suite started-at="2023-06-18T03:00:16 IST" name="MyStudent" finished-at="2023-06-18T03:00:37 IST" duration-ms="20602">
     <groups>
     </groups>
-    <test started-at="2023-06-15T01:51:53 IST" name="MyStudent Test" finished-at="2023-06-15T01:52:20 IST" duration-ms="26891">
+    <test started-at="2023-06-18T03:00:16 IST" name="MyStudent Test" finished-at="2023-06-18T03:00:37 IST" duration-ms="20602">
       <class name="com.myStudent.testCases.TC_RegisterTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.myStudent.testCases.TC_RegisterTest@40317ba2]" started-at="2023-06-15T01:52:02 IST" name="setup" finished-at="2023-06-15T01:52:10 IST" duration-ms="7668" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.myStudent.testCases.TC_RegisterTest@40317ba2]" started-at="2023-06-18T03:00:24 IST" name="setup" finished-at="2023-06-18T03:00:30 IST" duration-ms="5915" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,25 +18,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="RegisterTest()[pri:0, instance:com.myStudent.testCases.TC_RegisterTest@40317ba2]" started-at="2023-06-15T01:52:10 IST" name="RegisterTest" finished-at="2023-06-15T01:52:20 IST" duration-ms="10001" status="FAIL">
+        <test-method signature="RegisterTest()[pri:0, instance:com.myStudent.testCases.TC_RegisterTest@40317ba2]" started-at="2023-06-18T03:00:30 IST" name="RegisterTest" finished-at="2023-06-18T03:00:37 IST" duration-ms="7212" status="FAIL">
           <exception class="org.openqa.selenium.ElementNotInteractableException">
             <message>
               <![CDATA[element not interactable: Element is not currently visible and may not be manipulated
-  (Session info: chrome=114.0.5735.110)
+  (Session info: chrome=114.0.5735.134)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'MASUM', ip: '192.168.0.105', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+System info: host: 'MASUM', ip: '192.168.0.100', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.16 (7e1ff058633f..., userDataDir: C:\Users\masum\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54331}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 270f32bdfc64132466209d2cb2c7b1f1]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.134, chrome: {chromedriverVersion: 114.0.5735.16 (7e1ff058633f..., userDataDir: C:\Users\masum\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58315}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 665231a754cacdac2523025a745ce054]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable: Element is not currently visible and may not be manipulated
-  (Session info: chrome=114.0.5735.110)
+  (Session info: chrome=114.0.5735.134)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'MASUM', ip: '192.168.0.105', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+System info: host: 'MASUM', ip: '192.168.0.100', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.16 (7e1ff058633f..., userDataDir: C:\Users\masum\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54331}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 270f32bdfc64132466209d2cb2c7b1f1
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.134, chrome: {chromedriverVersion: 114.0.5735.16 (7e1ff058633f..., userDataDir: C:\Users\masum\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58315}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 665231a754cacdac2523025a745ce054
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -88,13 +88,13 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RegisterTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.myStudent.testCases.TC_RegisterTest@40317ba2]" started-at="2023-06-15T01:52:20 IST" name="tearDown" finished-at="2023-06-15T01:52:20 IST" duration-ms="195" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.myStudent.testCases.TC_RegisterTest@40317ba2]" started-at="2023-06-18T03:00:37 IST" name="tearDown" finished-at="2023-06-18T03:00:37 IST" duration-ms="130" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.myStudent.testCases.TC_RegisterTest -->
       <class name="com.myStudent.testCases.TC_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.myStudent.testCases.TC_LoginTest@4eaf3684]" started-at="2023-06-15T01:51:53 IST" name="setup" finished-at="2023-06-15T01:52:01 IST" duration-ms="7476" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.myStudent.testCases.TC_LoginTest@4eaf3684]" started-at="2023-06-18T03:00:17 IST" name="setup" finished-at="2023-06-18T03:00:23 IST" duration-ms="6061" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -105,11 +105,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.myStudent.testCases.TC_LoginTest@4eaf3684]" started-at="2023-06-15T01:52:01 IST" name="loginTest" finished-at="2023-06-15T01:52:02 IST" duration-ms="963" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.myStudent.testCases.TC_LoginTest@4eaf3684]" started-at="2023-06-18T03:00:23 IST" name="loginTest" finished-at="2023-06-18T03:00:24 IST" duration-ms="862" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.myStudent.testCases.TC_LoginTest@4eaf3684]" started-at="2023-06-15T01:52:02 IST" name="tearDown" finished-at="2023-06-15T01:52:02 IST" duration-ms="288" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.myStudent.testCases.TC_LoginTest@4eaf3684]" started-at="2023-06-18T03:00:24 IST" name="tearDown" finished-at="2023-06-18T03:00:24 IST" duration-ms="157" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
